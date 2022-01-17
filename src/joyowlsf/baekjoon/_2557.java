@@ -1,6 +1,6 @@
-package joyowlsf.baekjoon.problem.no2557;
+package joyowlsf.baekjoon;
 
-public class Main{
+public class _2557 {
     public static void main(String arg[]){
         System.out.println("Hello World!");
     }

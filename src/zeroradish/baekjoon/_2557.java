@@ -1,6 +1,6 @@
-package zeroradish.baekjoon.problem.no2557;
+package zeroradish.baekjoon;
 
-public class Main {
+public class _2557 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }

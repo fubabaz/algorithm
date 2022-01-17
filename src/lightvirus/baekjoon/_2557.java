@@ -1,6 +1,6 @@
-package lightvirus.baekjoon.problem.no2557;
+package lightvirus.baekjoon;
 
-public class Main {
+public class _2557 {
     public static void main(String [] args) {
         System.out.print("Hello World");
     }
