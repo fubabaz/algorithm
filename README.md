@@ -36,7 +36,7 @@
 ##
 
 ##### spidyweb 
-![Generic badge](https://img.shields.io/badge/completed-1-brightgreen.svg)
+![Generic badge](https://img.shields.io/badge/completed-2-brightgreen.svg)
 
 [2557](https://www.acmicpc.net/problem/2557)
 [10718](https://www.acmicpc.net/problem/10718)
