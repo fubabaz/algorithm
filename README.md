@@ -6,10 +6,10 @@
 ##
 
 
-##### zeroradish  
+##### zeroradish  :trophy:
 ![Generic badge](https://img.shields.io/badge/completed-15-brightgreen.svg)
 
-:trophy:
+
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -29,8 +29,10 @@
 
 ##
 
-##### joyowlsf 
+##### joyowlsf :turtle:
 ![Generic badge](https://img.shields.io/badge/completed-12-brightgreen.svg)
+
+
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
