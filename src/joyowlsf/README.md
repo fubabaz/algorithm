@@ -17,7 +17,7 @@
 [9498](https://www.acmicpc.net/problem/9498)
 [2753](https://www.acmicpc.net/problem/2753)
 [14681](https://www.acmicpc.net/problem/14681)
-[2884](https://www.acmicpc.net/problem/2884)
+
 
 
 ##
