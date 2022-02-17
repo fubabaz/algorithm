@@ -1,15 +1,15 @@
 
 ### BaekJoon  https://www.acmicpc.net/step
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 ##
 
 
-##### zeroradish  
-![Generic badge](https://img.shields.io/badge/completed-15-brightgreen.svg)
-
-
+##### zeroradish 
+![Generic badge](https://img.shields.io/badge/completed-15-brightgreen.svg?style=flat-square)
+![Java](https://img.shields.io/badge/java-12-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -30,8 +30,8 @@
 ##
 
 ##### joyowlsf 
-![Generic badge](https://img.shields.io/badge/completed-16-brightgreen.svg)
-
+![Generic badge](https://img.shields.io/badge/completed-16-brightgreen.svg?style=flat-square)
+![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
 
 [1000](https://www.acmicpc.net/problem/1000)
@@ -54,7 +54,9 @@
 ##
 
 ##### kyun-9458 :trophy:
-![Generic badge](https://img.shields.io/badge/completed-20-brightgreen.svg)
+![Generic badge](https://img.shields.io/badge/completed-20-brightgreen.svg?style=flat-square)
+![Java](https://img.shields.io/badge/java-19-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-1-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -80,7 +82,8 @@
 ##
 
 ##### spidyweb  :turtle:
-![Generic badge](https://img.shields.io/badge/completed-14-brightgreen.svg)
+![Generic badge](https://img.shields.io/badge/completed-24-brightgreen.svg?style=flat-square)
+![Python](https://img.shields.io/badge/python-14-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
