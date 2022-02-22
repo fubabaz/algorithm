@@ -101,8 +101,8 @@
 
 
 ##### spidyweb :angry: :turtle: 
-![Generic badge](https://img.shields.io/badge/completed-14-brightgreen.svg?style=flat-square)
-![Python](https://img.shields.io/badge/python-14-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Generic badge](https://img.shields.io/badge/completed-18-brightgreen.svg?style=flat-square)
+![Python](https://img.shields.io/badge/python-18-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 [1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
