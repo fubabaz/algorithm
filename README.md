@@ -9,7 +9,7 @@
 ![Generic badge](https://img.shields.io/badge/completed-38-brightgreen.svg?style=flat-square)
 ![Python](https://img.shields.io/badge/python-38-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-[1000](https://www.acmicpc.net/problem/1000)
+<sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
 [1008](https://www.acmicpc.net/problem/1008)
 [1110](https://www.acmicpc.net/problem/1110)
@@ -55,8 +55,7 @@
 ![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-18-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-
-[1000](https://www.acmicpc.net/problem/1000)
+<sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
 [1008](https://www.acmicpc.net/problem/1008)
 [1330](https://www.acmicpc.net/problem/1330)
@@ -97,7 +96,7 @@
 ![Java](https://img.shields.io/badge/java-24-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-[1000](https://www.acmicpc.net/problem/1000)
+<sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
 [1008](https://www.acmicpc.net/problem/1008)
 [1330](https://www.acmicpc.net/problem/1330)
@@ -130,7 +129,7 @@
 ![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-[1000](https://www.acmicpc.net/problem/1000)
+<sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
 [1008](https://www.acmicpc.net/problem/1008)
 [1330](https://www.acmicpc.net/problem/1330)
