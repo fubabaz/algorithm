@@ -48,7 +48,7 @@
 [15552](https://www.acmicpc.net/problem/15552)
   
 ###### leetcode 
-> <sub> -
+> <sub> None yet
 ##
 
 
@@ -94,7 +94,7 @@
 [14681](https://www.acmicpc.net/problem/14681)
 [15552](https://www.acmicpc.net/problem/15552)
   ###### leetcode 
-> <sub> -
+> <sub> None yet
 ##
 
 ### kyun-9458 
@@ -130,7 +130,7 @@
 [15552](https://www.acmicpc.net/problem/15552)
 [18108](https://www.acmicpc.net/problem/18108)
 ###### leetcode 
-> <sub> -
+> <sub> None yet
 ##
 
 ### zeroradish   :turtle: :angry:
@@ -161,6 +161,6 @@
 [14681](https://www.acmicpc.net/problem/14681)
 [18108](https://www.acmicpc.net/problem/18108)
 ###### leetcode 
-> <sub> -
+> <sub> None yet
 ##
 
