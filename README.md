@@ -3,8 +3,8 @@
 ##
 
 ### spidyweb :trophy: :angry: :angry:
-![Generic badge](https://img.shields.io/badge/completed-38-brightgreen.svg?style=flat-square)
-![Python](https://img.shields.io/badge/python-38-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Generic badge](https://img.shields.io/badge/completed-43-brightgreen.svg?style=flat-square)
+![Python](https://img.shields.io/badge/python-43-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ###### baekjoon 
 
