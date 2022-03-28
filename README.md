@@ -54,8 +54,6 @@
 [14681](https://www.acmicpc.net/problem/14681)
 [15552](https://www.acmicpc.net/problem/15552)
 
-###### leetcode 
-> <sub> None yet
 ##
 
 
@@ -153,6 +151,8 @@
 [18108](https://www.acmicpc.net/problem/18108)
 ###### leetcode 
 > <sub>[two-some](https://leetcode.com/problems/two-sum/)
+  
+  
 ##
 
 ### zeroradish   :turtle:
@@ -189,7 +189,6 @@
 [14681](https://www.acmicpc.net/problem/14681)
 [15552](https://www.acmicpc.net/problem/15552)
 [18108](https://www.acmicpc.net/problem/18108)
-###### leetcode 
-> <sub> None yet
+
 ##
 
