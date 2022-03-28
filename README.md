@@ -2,9 +2,9 @@
 
 ##
 
-### spidyweb :trophy: :angry: :angry:
-![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat-square)
-![Python](https://img.shields.io/badge/python-45-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+### spidyweb :trophy:
+![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat)
+![Python](https://img.shields.io/badge/python-45-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon 
 
@@ -59,10 +59,10 @@
 ##
 
 
-### joyowlsf :angry:
-![Generic badge](https://img.shields.io/badge/completed-37-brightgreen.svg?style=flat-square)
-![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-21-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+### joyowlsf [![LeetCode user joyowlsf](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoyowlsf&logo=leetcode&logoColor=yellow)](https://leetcode.com/joyowlsf/)
+![Generic badge](https://img.shields.io/badge/completed-37-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-21-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon  
 
@@ -108,11 +108,12 @@
 
 ##
 
-### kyun-9458 
-![Generic badge](https://img.shields.io/badge/completed-36-brightgreen.svg?style=flat-square)
-![Java](https://img.shields.io/badge/java-35-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-1-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+### kyun-9458 [![LeetCode user jkk9458](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjkk9458&logo=leetcode&logoColor=yellow)](https://leetcode.com/jkk9458/)
+![Generic badge](https://img.shields.io/badge/completed-36-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-35-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-1-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
+  
 ###### baekjoon  
 
 > <sub>[1000](https://www.acmicpc.net/problem/1000)
@@ -154,11 +155,11 @@
 > <sub>[two-some](https://leetcode.com/problems/two-sum/)
 ##
 
-### zeroradish   :turtle: :angry:
+### zeroradish   :turtle:
 
-![Generic badge](https://img.shields.io/badge/completed-26-brightgreen.svg?style=flat-square)
-![Java](https://img.shields.io/badge/java-23-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Generic badge](https://img.shields.io/badge/completed-26-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-23-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon  
 
