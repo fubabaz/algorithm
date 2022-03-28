@@ -6,6 +6,7 @@
 [10172](https://www.acmicpc.net/problem/10172)
 [10430](https://www.acmicpc.net/problem/10430)
 [10718](https://www.acmicpc.net/problem/10718)
+[10818](https://www.acmicpc.net/problem/10818)
 [10869](https://www.acmicpc.net/problem/10869)
 [10871](https://www.acmicpc.net/problem/10871)
 [10926](https://www.acmicpc.net/problem/10926)
@@ -41,5 +42,6 @@
 ##
 
 #### LeetCode
+[Tow Sum](https://leetcode.com/problems/two-sum/)
 
 ##
