@@ -1,6 +1,5 @@
 
 
-##
 
 ### spidyweb :trophy:
 ![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat)
@@ -190,5 +189,4 @@
 [15552](https://www.acmicpc.net/problem/15552)
 [18108](https://www.acmicpc.net/problem/18108)
 
-##
 
