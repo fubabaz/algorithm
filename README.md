@@ -1,5 +1,16 @@
 
+<li><sub>baekjoon, leetcode, programmers에서 문제를 선택하여 일주일에 최소 1건의 PR을 보내야 합니다.</sub>
+<li><sub>평일에만 PR을 보낼수 있습니다. 주말에 발생하는 PR은 Close 합니다. ( 주말에 하면 된다는 생각이 활동에 방해 요소가 됨)</sub>
+<li><sub>PR 리뷰는 토요일 저녁 까지 진행 할 수 있습니다. 모든 팀원의 리뷰가 끝난 PR은 PR 작성자가 직접 MERGE 합니다.</sub>
+<li><sub>토요일 저녁까지 모든 PR의 리뷰를 할 수 없는 경우 상황을 알리고, 일요일 오전까지 리뷰를 진행 해야 합니다.</sub>
+<li><sub>Repository 담당자가 일요일 오후에 README 업데이트를 진행합니다. </sub>
+<li><sub>동의가 끝난 PR이 MERGE 되지 않은 경우 Repository 담당자가 직접 MERGE를 진행 합니다.</sub>
 
+  
+  ##
+  
+  
+  
 
 ### spidyweb :trophy:
 ![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat)
