@@ -13,8 +13,8 @@
   
 
 ### spidyweb :trophy:
-![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat)
-![Python](https://img.shields.io/badge/python-45-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Generic badge](https://img.shields.io/badge/completed-50-brightgreen.svg?style=flat)
+![Python](https://img.shields.io/badge/python-50-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon 
 
@@ -22,9 +22,12 @@
 [1001](https://www.acmicpc.net/problem/1001)
 [1008](https://www.acmicpc.net/problem/1008)
 [1110](https://www.acmicpc.net/problem/1110)
+[1157](https://www.acmicpc.net/problem/1157)
+[1181](https://www.acmicpc.net/problem/1181)
 [1330](https://www.acmicpc.net/problem/1330)
 [1546](https://www.acmicpc.net/problem/1546)
 [1978](https://www.acmicpc.net/problem/1978)
+[2292](https://www.acmicpc.net/problem/2292)
 [2438](https://www.acmicpc.net/problem/2438)
 [2439](https://www.acmicpc.net/problem/2439)
 [2480](https://www.acmicpc.net/problem/2480)
@@ -33,12 +36,14 @@
 [2577](https://www.acmicpc.net/problem/2577)
 [2581](https://www.acmicpc.net/problem/2581)
 [2588](https://www.acmicpc.net/problem/2588)
+[2675](https://www.acmicpc.net/problem/2675)
 [2739](https://www.acmicpc.net/problem/2739)
 [2741](https://www.acmicpc.net/problem/2741)
 [2742](https://www.acmicpc.net/problem/2742)
 [2750](https://www.acmicpc.net/problem/2750)
 [2753](https://www.acmicpc.net/problem/2753)
 [2884](https://www.acmicpc.net/problem/2884)
+[2908](https://www.acmicpc.net/problem/2908)
 [3052](https://www.acmicpc.net/problem/3052)
 [8393](https://www.acmicpc.net/problem/8393)
 [8958](https://www.acmicpc.net/problem/8958)
