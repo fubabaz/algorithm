@@ -14,10 +14,10 @@
   
 
 ### spidyweb :trophy:
-![Generic badge](https://img.shields.io/badge/completed-57-brightgreen.svg?style=flat)
-![Python](https://img.shields.io/badge/python-57-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon 
+![Generic badge](https://img.shields.io/badge/completed-61-brightgreen.svg?style=flat)
+![Python](https://img.shields.io/badge/python-61-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 > <sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -48,6 +48,7 @@
 [1181](https://www.acmicpc.net/problem/1181)
 [1316](https://www.acmicpc.net/problem/1316)
 [1330](https://www.acmicpc.net/problem/1330)
+[1427](https://www.acmicpc.net/problem/1427)
 [14681](https://www.acmicpc.net/problem/14681)
 [1546](https://www.acmicpc.net/problem/1546)
 [15552](https://www.acmicpc.net/problem/15552)
@@ -69,23 +70,28 @@
 [2742](https://www.acmicpc.net/problem/2742)
 [2750](https://www.acmicpc.net/problem/2750)
 [2753](https://www.acmicpc.net/problem/2753)
+[2775](https://www.acmicpc.net/problem/2775)
 [2884](https://www.acmicpc.net/problem/2884)
 [2908](https://www.acmicpc.net/problem/2908)
+[3003](https://www.acmicpc.net/problem/3003)
 [3052](https://www.acmicpc.net/problem/3052)
+[4344](https://www.acmicpc.net/problem/4344)
 [5622](https://www.acmicpc.net/problem/5622)
 [8393](https://www.acmicpc.net/problem/8393)
 [8958](https://www.acmicpc.net/problem/8958)
 [9498](https://www.acmicpc.net/problem/9498)
 
+
 ##
 
 
-### joyowlsf [![LeetCode user joyowlsf](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoyowlsf&logo=leetcode&logoColor=yellow)](https://leetcode.com/joyowlsf/)
-![Generic badge](https://img.shields.io/badge/completed-50-brightgreen.svg?style=flat)
-![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-34-3670A0?style=flat&logo=python&logoColor=ffdd54)
+### joyowlsf 
+
 
 ###### baekjoon  
+![Generic badge](https://img.shields.io/badge/completed-52-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-16-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-36-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 > <sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -104,6 +110,7 @@
 [10998](https://www.acmicpc.net/problem/10998)
 [11021](https://www.acmicpc.net/problem/11021)
 [11022](https://www.acmicpc.net/problem/11022)
+[1110](https://www.acmicpc.net/problem/1110)
 [1152](https://www.acmicpc.net/problem/1152)
 [1157](https://www.acmicpc.net/problem/1157)
 [11654](https://www.acmicpc.net/problem/11654)
@@ -117,7 +124,9 @@
 [1712](https://www.acmicpc.net/problem/1712)
 [2292](https://www.acmicpc.net/problem/2292)
 [2438](https://www.acmicpc.net/problem/2438)
+[2439](https://www.acmicpc.net/problem/2439)
 [2480](https://www.acmicpc.net/problem/2480)
+[25083](https://www.acmicpc.net/problem/25083)
 [2525](https://www.acmicpc.net/problem/2525)
 [2557](https://www.acmicpc.net/problem/2557)
 [2562](https://www.acmicpc.net/problem/2562)
@@ -132,23 +141,31 @@
 [2884](https://www.acmicpc.net/problem/2884)
 [2908](https://www.acmicpc.net/problem/2908)
 [3052](https://www.acmicpc.net/problem/3052)
+[4344](https://www.acmicpc.net/problem/4344)
 [8393](https://www.acmicpc.net/problem/8393)
 [8958](https://www.acmicpc.net/problem/8958)
 [9498](https://www.acmicpc.net/problem/9498)
+
   
   ###### leetcode 
+![Generic badge](https://img.shields.io/badge/completed-2-brightgreen.svg?style=flat)
+![Python](https://img.shields.io/badge/python-2-3670A0?style=flat&logo=python&logoColor=ffdd54)
+[![LeetCode user joyowlsf](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoyowlsf&logo=leetcode&logoColor=yellow)](https://leetcode.com/joyowlsf/)
+  
 > <sub>[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
 [reverse-string](https://leetcode.com/problems/reverse-string/)
 
 ##
 
-### kyun-9458 [![LeetCode user jkk9458](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjkk9458&logo=leetcode&logoColor=yellow)](https://leetcode.com/jkk9458/)
-![Generic badge](https://img.shields.io/badge/completed-45-brightgreen.svg?style=flat)
-![Java](https://img.shields.io/badge/java-44-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-1-3670A0?style=flat&logo=python&logoColor=ffdd54)
+### kyun-9458 
+
 
   
 ###### baekjoon  
+
+![Generic badge](https://img.shields.io/badge/completed-52-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-49-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 > <sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -156,7 +173,9 @@
 [10171](https://www.acmicpc.net/problem/10171)
 [10172](https://www.acmicpc.net/problem/10172)
 [10430](https://www.acmicpc.net/problem/10430)
+[1065](https://www.acmicpc.net/problem/1065)
 [10718](https://www.acmicpc.net/problem/10718)
+[10809](https://www.acmicpc.net/problem/10809)
 [10818](https://www.acmicpc.net/problem/10818)
 [10869](https://www.acmicpc.net/problem/10869)
 [10871](https://www.acmicpc.net/problem/10871)
@@ -168,6 +187,9 @@
 [11021](https://www.acmicpc.net/problem/11021)
 [11022](https://www.acmicpc.net/problem/11022)
 [1110](https://www.acmicpc.net/problem/1110)
+[1157](https://www.acmicpc.net/problem/1157)
+[11654](https://www.acmicpc.net/problem/11654)
+[11720](https://www.acmicpc.net/problem/11720)
 [1330](https://www.acmicpc.net/problem/1330)
 [14681](https://www.acmicpc.net/problem/14681)
 [1546](https://www.acmicpc.net/problem/1546)
@@ -183,18 +205,25 @@
 [2562](https://www.acmicpc.net/problem/2562)
 [2577](https://www.acmicpc.net/problem/2577)
 [2588](https://www.acmicpc.net/problem/2588)
+[2675](https://www.acmicpc.net/problem/2675)
 [2739](https://www.acmicpc.net/problem/2739)
 [2741](https://www.acmicpc.net/problem/2741)
 [2742](https://www.acmicpc.net/problem/2742)
 [2753](https://www.acmicpc.net/problem/2753)
 [2869](https://www.acmicpc.net/problem/2869)
 [2884](https://www.acmicpc.net/problem/2884)
+[3003](https://www.acmicpc.net/problem/3003)
 [3052](https://www.acmicpc.net/problem/3052)
 [4344](https://www.acmicpc.net/problem/4344)
+[4673](https://www.acmicpc.net/problem/4673)
 [8393](https://www.acmicpc.net/problem/8393)
 [8958](https://www.acmicpc.net/problem/8958)
 [9498](https://www.acmicpc.net/problem/9498)
+
 ###### leetcode 
+![Generic badge](https://img.shields.io/badge/completed-1-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-1-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+[![LeetCode user jkk9458](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjkk9458&logo=leetcode&logoColor=yellow)](https://leetcode.com/jkk9458/)
 > <sub>[two-some](https://leetcode.com/problems/two-sum/)
   
   
@@ -202,11 +231,12 @@
 
 ### zeroradish   :turtle:
 
-![Generic badge](https://img.shields.io/badge/completed-38-brightgreen.svg?style=flat)
-![Java](https://img.shields.io/badge/java-35-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ###### baekjoon  
+
+![Generic badge](https://img.shields.io/badge/completed-41-brightgreen.svg?style=flat)
+![Java](https://img.shields.io/badge/java-38-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 > <sub>[1000](https://www.acmicpc.net/problem/1000)
 [1001](https://www.acmicpc.net/problem/1001)
@@ -225,9 +255,9 @@
 [10998](https://www.acmicpc.net/problem/10998)
 [11021](https://www.acmicpc.net/problem/11021)
 [11022](https://www.acmicpc.net/problem/11022)
-[1110](https://www.acmicpc.net/problem/1110)
 [1330](https://www.acmicpc.net/problem/1330)
 [14681](https://www.acmicpc.net/problem/14681)
+[1546](https://www.acmicpc.net/problem/1546)
 [15552](https://www.acmicpc.net/problem/15552)
 [18108](https://www.acmicpc.net/problem/18108)
 [2438](https://www.acmicpc.net/problem/2438)
@@ -244,7 +274,10 @@
 [2742](https://www.acmicpc.net/problem/2742)
 [2753](https://www.acmicpc.net/problem/2753)
 [2884](https://www.acmicpc.net/problem/2884)
+[3052](https://www.acmicpc.net/problem/3052)
+[4344](https://www.acmicpc.net/problem/4344)
 [8393](https://www.acmicpc.net/problem/8393)
+[8958](https://www.acmicpc.net/problem/8958)
 [9498](https://www.acmicpc.net/problem/9498)
 
 
