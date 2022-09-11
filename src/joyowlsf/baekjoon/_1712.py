@@ -6,3 +6,4 @@ else:
     n = a / (c - b)
     n = n + 1
     print(int(n))
+    
