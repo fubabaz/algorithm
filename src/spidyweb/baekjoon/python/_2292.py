@@ -1,3 +1,4 @@
+
 def bee_hive(N=int(input())):
     cnt = 1
     while N >= 1: # 최초 입력받은 값이 1이거나 루프를 돌아 N이 1이상일 떄만 루프시작
