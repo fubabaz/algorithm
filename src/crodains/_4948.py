@@ -23,4 +23,4 @@ while True:
         break
     else:
         sep = set([i for i in range(number+1,(number*2)+1)]) #입력 받은 숫자 N과 2N까지의 모든 수가 담긴 세트
-        print(len(sep & all)) # 모든 소수와 2N까지의 모든 수의 교집합 = 2N까지의 모든 소수
+        print(len(sep & all)) # 모든 소수와 2N까지의 모든 수의 교집합 => 2N까지의 모든 소수
