@@ -55,6 +55,5 @@ for _ in range(T):
 
 # Output
 '''
-* Internet Code : 메모리 39,936KB / 시간 1328 ms
-* My code : 메모리 57,772KB / 시간 996 ms
+* Internet Code : 메모리 35,644KB / 시간 744 ms
 '''
