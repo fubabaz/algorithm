@@ -20,8 +20,6 @@
 각 테스트 케이스에 대해서 주어진 n의 골드바흐 파티션을 출력한다. 출력하는 소수는 작은 것부터 먼저 출력하며, 공백으로 구분한다.
 '''
 
-
-from typing import List, Set
 import math
 
 def isPrime(N):
