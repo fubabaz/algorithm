@@ -1,4 +1,9 @@
 package beakjoon;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
 public class _2751 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
