@@ -1,4 +1,4 @@
-package j_s_leee.beakjoon;
+package j_s_leee.baekjoon;
 
 import java.io.*;
 import java.util.StringTokenizer;
